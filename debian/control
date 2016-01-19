@@ -1,0 +1,12 @@
+Source: rawthumbnailer
+Maintainer: David Hernández <david.vzla@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9)
+
+Package: rawthumbnailer
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ufraw-batch
+Description: Show thumbnails in gnome for raw files
+ It shows thumbnails for cr2, crw, mrw, nef, pef, rw2, srw and orf extensions
