@@ -1,4 +1,6 @@
-[Thumbnailer Entry]
-TryExec=ufraw-batch
-Exec=ufraw-batch --silent --size %s --out-type=png --noexif --output=%o --overwrite --embedded-image %i
-MimeType=image/x-canon-cr2;image/x-canon-crw;image/x-minolta-mrw;image/x-nikon-nef;image/x-pentax-pef;image/x-panasonic-rw2;image/x-samsung-srw;image/x-olympus-orf
+[Thumbnailer Entry] 
+TryExec=ufraw-batch 
+Exec=ufraw-batch --silent --size %s --out-type=png --noexif --output=%o --overwrite --embedded-image %i 
+MimeType=image/x-canon-cr2;image/x-canon-crw;image/x-minolta-mrw;image/x-nikon-nef;image/x-pentax-pef;image/x-panasonic-rw2;image/x-samsung-srw;image/x-olympus-orf;image/x-adobe-dng;image/x-dcraw;image/x-fuji-raf;image/x-kodak-dcr;image/x-kodak-k25;image/x-kodak-kdc;image/x-panasonic-raw;image/x-sigma-x3f;image/x-sony-arw;image/x-sony-sr2;image/x-sony-srf
+
+
