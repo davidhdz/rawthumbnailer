@@ -1,3 +1,9 @@
+rawthumbnailer (1.1) UNRELEASED; urgency=medium
+
+  * Added support for dng, dcraw, raf, dcr, k25, kdc, raw, x3f, arw, sr2 and srf files.
+
+ -- David Hernández <david.vzla@gmail.com>  Thu, 21 Jan 2016 08:40:00 -0430
+
 rawthumbnailer (1.0) unstable; urgency=low
 
   * Initial release.
